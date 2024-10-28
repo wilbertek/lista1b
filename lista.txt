@@ -1,5 +1,6 @@
 28-10-2024
 <<<<<<< HEAD
+<<<<<<< HEAD
 Salma Soto Ochoa - estudiante
 =======
 Patricio Reyes Alvarez
@@ -18,6 +19,26 @@ César Augusto Sosa Realpozo
 
 
 
+=======
+Esteban Martinez Rodriguez 
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+>>>>>>> 5bbfd930cc8ea4b9fae727bcc70591315f4e9403
 Javier Osorio Cardeña
+wilbert ek -prof
+Dylan Ernesto Mollinedo Sanchez
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Gabriel García Castorena
+Olaf David López Flores
+Javier Osorio Cardeña
+Eduardo Gabriel Canul May
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpoz
+Javier Osorio Cardeña
+Ernesto Guillermo Hernandez Ocon
 
 >>>>>>> 63ca44d807f95601a9dc5c6ec1d320d35fd43f57
