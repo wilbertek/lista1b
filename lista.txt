@@ -1,6 +1,7 @@
 28-10-2024
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Salma Soto Ochoa - estudiante
 =======
 Patricio Reyes Alvarez
@@ -20,6 +21,22 @@ César Augusto Sosa Realpozo
 
 
 =======
+=======
+Daniela Mora Ayuso
+Sergio Orion Huerta Martínez
+Luis Raúl Marques Cervera
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Olaf David López Flores
+Eduardo Gabriel Canul May
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Luis Raúl Marques Cervera
+Javier Osorio Cardeña
+Erick Gómez Espinosa
+>>>>>>> ff2fdc515d7963cce04471ca0c7d2afbc18edb67
 Esteban Martinez Rodriguez 
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
@@ -45,4 +62,9 @@ Ernesto Guillermo Hernandez Ocon
 >>>>>>> 63ca44d807f95601a9dc5c6ec1d320d35fd43f57
 =======
 Mauricio José Santiago Pino aaaaa ayuda no puedo hacer git push
+<<<<<<< HEAD
 >>>>>>> 58f12cada043b095a37ae0629a6b7c3dc83aea45
+=======
+Mariana Torres Mendoza
+Pedro Jose Narvaez Flores
+>>>>>>> ff2fdc515d7963cce04471ca0c7d2afbc18edb67
