@@ -22,6 +22,9 @@ Luis Raúl Marques Cervera
 Javier Osorio Cardeña
 >>>>>>> 7d04010be75f813b92d0c900bb92555d12aba9c4
 =======
+=======
+Erick Gómez Espinosa
+>>>>>>> 78ae57a64be2efbbedae6b7f8628357c24c9a309
 Esteban Martinez Rodriguez 
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
