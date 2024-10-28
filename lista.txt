@@ -1,8 +1,7 @@
 28-10-2024
-<<<<<<< HEAD
-Erick Gómez 
-=======
+Erick Gómez Espinosa
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
->>>>>>> 387d1759b6f2071f9ec58df6f1b8d00a108174b2
+Javier Osorio Cardeña
+
