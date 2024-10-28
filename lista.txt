@@ -1,22 +1,11 @@
 28-10-2024
-
 Esteban Martinez Rodriguez 
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
-
-
-
-
-
-
-
-
-
-
-
 Javier Osorio Cardeña
 wilbert ek -prof
+Dylan Ernesto Mollinedo Sanchez
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
@@ -24,7 +13,7 @@ Javier Osorio Cardeña
 Eduardo Gabriel Canul May
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
-César Augusto Sosa Realpozo
+César Augusto Sosa Realpoz
 Javier Osorio Cardeña
 Ernesto Guillermo Hernandez Ocon
 
