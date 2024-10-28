@@ -5,4 +5,19 @@ Salma Soto Ochoa - estudiante
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
+<<<<<<< HEAD
 >>>>>>> 387d1759b6f2071f9ec58df6f1b8d00a108174b2
+=======
+
+
+
+
+
+
+
+
+
+
+Javier Osorio Cardeña
+
+>>>>>>> 63ca44d807f95601a9dc5c6ec1d320d35fd43f57
