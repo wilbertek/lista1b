@@ -1,3 +1,10 @@
 28-10-2024
+<<<<<<< HEAD
 Sergio Orion Huerta Martínez
 Luis Raúl Marques Cervera
+=======
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Olaf David López Flores
+>>>>>>> f9464e24e6b7d26d1a145bfa21683bed990092d1
