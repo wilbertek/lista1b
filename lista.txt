@@ -21,4 +21,25 @@ Luis Raúl Marques Cervera
 
 Javier Osorio Cardeña
 >>>>>>> 7d04010be75f813b92d0c900bb92555d12aba9c4
+=======
+Esteban Martinez Rodriguez 
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Javier Osorio Cardeña
+wilbert ek -prof
+Dylan Ernesto Mollinedo Sanchez
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Gabriel García Castorena
+Olaf David López Flores
+Javier Osorio Cardeña
+Eduardo Gabriel Canul May
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpoz
+Javier Osorio Cardeña
+Ernesto Guillermo Hernandez Ocon
+>>>>>>> 5bbfd930cc8ea4b9fae727bcc70591315f4e9403
 
