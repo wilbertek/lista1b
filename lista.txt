@@ -1,4 +1,5 @@
 28-10-2024
+<<<<<<< HEAD
 wilbert ek -prof
 Dylan Ernesto Mollinedo Sanchez
 Patricio Reyes Alvarez
