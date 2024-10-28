@@ -1,6 +1,13 @@
 28-10-2024
+<<<<<<< HEAD
 wilbert ek -prof
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
 Javier Osorio Cardeña
+Eduardo Gabriel Canul May
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Javier Osorio Cardeña
+Ernesto Guillermo Hernandez Ocon
