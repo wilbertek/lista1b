@@ -1,15 +1,10 @@
 28-10-2024
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Salma Soto Ochoa - estudiante
-=======
+
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
-<<<<<<< HEAD
->>>>>>> 387d1759b6f2071f9ec58df6f1b8d00a108174b2
-=======
 
 
 
@@ -20,8 +15,7 @@ César Augusto Sosa Realpozo
 
 
 
-=======
-=======
+
 Daniela Mora Ayuso
 Sergio Orion Huerta Martínez
 Luis Raúl Marques Cervera
@@ -38,12 +32,12 @@ Dylan Ernesto Mollinedo Sanchez
 Dylan Ernesto Mollinedo Sanchez
 Javier Osorio Cardeña
 Erick Gómez Espinosa
->>>>>>> ff2fdc515d7963cce04471ca0c7d2afbc18edb67
+
 Esteban Martinez Rodriguez 
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
->>>>>>> 5bbfd930cc8ea4b9fae727bcc70591315f4e9403
+
 Javier Osorio Cardeña
 wilbert ek -prof
 Dylan Ernesto Mollinedo Sanchez
@@ -59,18 +53,14 @@ Sergio Orion Huerta Martínez
 César Augusto Sosa Realpoz
 Javier Osorio Cardeña
 Ernesto Guillermo Hernandez Ocon
-<<<<<<< HEAD
 
->>>>>>> 63ca44d807f95601a9dc5c6ec1d320d35fd43f57
-=======
+
+
 Mauricio José Santiago Pino aaaaa ayuda no puedo hacer git push
-<<<<<<< HEAD
->>>>>>> 58f12cada043b095a37ae0629a6b7c3dc83aea45
-=======
+
 Mariana Torres Mendoza
 Pedro Jose Narvaez Flores
-<<<<<<< HEAD
+
 Valeria Tzec 
-=======
->>>>>>> ff2fdc515d7963cce04471ca0c7d2afbc18edb67
->>>>>>> 0bfb07aaf6fbb99f2867b5a0ef507318f01c8a92
+
+Gustavo Cervantes Cetina
