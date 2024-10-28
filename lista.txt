@@ -41,5 +41,10 @@ Sergio Orion Huerta Martínez
 César Augusto Sosa Realpoz
 Javier Osorio Cardeña
 Ernesto Guillermo Hernandez Ocon
+<<<<<<< HEAD
 >>>>>>> 5bbfd930cc8ea4b9fae727bcc70591315f4e9403
 
+=======
+Mauricio José Santiago Pino aaaaa ayuda no puedo hacer git push
+Mariana Torres Mendoza
+>>>>>>> 5cf170f632869462541a8ed4488aadfb5f8bc933
