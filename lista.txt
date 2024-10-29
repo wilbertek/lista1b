@@ -1,9 +1,53 @@
 28-10-2024
+
+Salma Soto Ochoa - estudiante
+
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+
+
+
+
+
+
+
+
+
+
+
+Daniela Mora Ayuso
+Sergio Orion Huerta Martínez
+Luis Raúl Marques Cervera
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Olaf David López Flores
+Eduardo Gabriel Canul May
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+Luis Raúl Marques Cervera
+Dylan Ernesto Mollinedo Sanchez
+Dylan Ernesto Mollinedo Sanchez
+Javier Osorio Cardeña
+Erick Gómez Espinosa
+
+Esteban Martinez Rodriguez 
+Patricio Reyes Alvarez
+Sergio Orion Huerta Martínez
+César Augusto Sosa Realpozo
+
+Javier Osorio Cardeña
 wilbert ek -prof
 Dylan Ernesto Mollinedo Sanchez
 Patricio Reyes Alvarez
 Sergio Orion Huerta Martínez
 César Augusto Sosa Realpozo
+<<<<<<< HEAD
+=======
+Gabriel García Castorena
+>>>>>>> 496844958cb909561e1f40dc182a93d2fabe925a
 Olaf David López Flores
 Javier Osorio Cardeña
 Eduardo Gabriel Canul May
@@ -13,3 +57,13 @@ César Augusto Sosa Realpoz
 Javier Osorio Cardeña
 Ernesto Guillermo Hernandez Ocon
 
+
+
+Mauricio José Santiago Pino aaaaa ayuda no puedo hacer git push
+
+Mariana Torres Mendoza
+Pedro Jose Narvaez Flores
+
+Valeria Tzec 
+
+Gustavo Cervantes Cetina
